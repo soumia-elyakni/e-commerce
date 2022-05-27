@@ -171,7 +171,7 @@ a {
 .site-header .apply-btn {
   border: 2px solid #79b530;
   color: #79b530;
-  padding: 15px 32px;
+  padding: 8px 32px;
   font-size: 14px;
   line-height: 14px;
   font-weight: 900;
@@ -190,7 +190,7 @@ a {
 .site-header.header-two .form-section {
   float: right;
   position: relative;
-  padding: 16px 0;
+  padding: 8px 0;
 }
 
 .site-header.header-two .form-section svg {
@@ -209,7 +209,7 @@ a {
 
 .site-header.header-two .form-section .example form {
   width: 240px;
-  height: 40px;
+  height: 30px;
   padding: 5px 5px;
   box-shadow: 0 1px 0 0 #3b9ad7;
   background: #3b9ad7;
@@ -271,7 +271,7 @@ a {
 }
 
 .site-header.header-two #mobile-header {
-  padding: 20px 0;
+  padding: 10px 0;
   float: left;
 }
 
